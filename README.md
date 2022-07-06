@@ -1,2 +1,1 @@
-# segundaActividad
-Segunda Actividad de simulacro
+Push de Mauro Ridao
